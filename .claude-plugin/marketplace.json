@@ -2,8 +2,7 @@
   "name": "docx-toolkit-marketplace",
   "description": "DOCX document processing toolkit marketplace",
   "owner": {
-    "name": "ZhangNy",
-    "url": "https://github.com/ZhangNy301"
+    "name": "ZhangNy"
   },
   "plugins": [
     {
@@ -15,7 +14,10 @@
       },
       "homepage": "https://github.com/ZhangNy301/docx-toolkit",
       "repository": "https://github.com/ZhangNy301/docx-toolkit",
-      "source": "github:ZhangNy301/docx-toolkit"
+      "source": {
+        "source": "github",
+        "repo": "ZhangNy301/docx-toolkit"
+      }
     }
   ]
 }
