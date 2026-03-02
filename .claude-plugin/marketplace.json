@@ -15,8 +15,8 @@
       "homepage": "https://github.com/ZhangNy301/docx-toolkit",
       "repository": "https://github.com/ZhangNy301/docx-toolkit",
       "source": {
-        "source": "github",
-        "repo": "ZhangNy301/docx-toolkit"
+        "source": "url",
+        "url": "https://github.com/ZhangNy301/docx-toolkit.git"
       }
     }
   ]
