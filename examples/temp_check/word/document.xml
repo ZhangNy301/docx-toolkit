@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<w:document xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:ns1="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" ns1:Ignorable="w14 wp14"><w:body><w:p><w:pPr><w:jc w:val="center" /></w:pPr><w:r><w:rPr><w:b /><w:sz w:val="36" /></w:rPr><w:t xml:space="preserve">人工智能研究报告</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">作者: 张三</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">日期: 2024-03-02</w:t></w:r></w:p><w:p /><w:p><w:r><w:t>## 摘要</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">本研究探讨了人工智能在医疗领域的应用前景...</w:t></w:r></w:p><w:p /><w:p><w:r><w:t>## 正文</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve" /></w:r></w:p><w:p><w:r><w:t xml:space="preserve">### 引言</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">人工智能技术正在改变医疗行业...</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve" /></w:r></w:p><w:p><w:r><w:t xml:space="preserve">### 方法</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">我们采用了深度学习方法...</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve" /></w:r></w:p><w:p><w:r><w:t xml:space="preserve">### 结论</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve">研究表明AI具有广阔应用前景。</w:t></w:r></w:p><w:p><w:r><w:t xml:space="preserve" /></w:r></w:p><w:p>
+  <w:pPr>
+    <w:jc w:val="center" />
+  </w:pPr>
+  <w:r>
+    <w:drawing>
+  <wp:inline distT="0" distB="0" distL="0" distR="0">
+    <wp:extent cx="5400000" cy="4050000" />
+    <wp:docPr id="956646" name="image1.png" descr="图1. 测试图片示例" />
+    <wp:cNvGraphicFramePr>
+      <a:graphicFrameLocks noChangeAspect="1" />
+    </wp:cNvGraphicFramePr>
+    <a:graphic>
+      <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+        <pic:pic>
+          <pic:nvPicPr>
+            <pic:cNvPr id="0" name="image1.png" />
+            <pic:cNvPicPr />
+          </pic:nvPicPr>
+          <pic:blipFill>
+            <a:blip r:embed="rId9" />
+            <a:stretch>
+              <a:fillRect />
+            </a:stretch>
+          </pic:blipFill>
+          <pic:spPr>
+            <a:xfrm>
+              <a:off x="0" y="0" />
+              <a:ext cx="5400000" cy="4050000" />
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst />
+            </a:prstGeom>
+          </pic:spPr>
+        </pic:pic>
+      </a:graphicData>
+    </a:graphic>
+  </wp:inline>
+</w:drawing>
+  </w:r>
+</w:p><w:p>
+  <w:pPr>
+    <w:jc w:val="center" />
+    <w:pStyle w:val="Caption" />
+  </w:pPr>
+  <w:r>
+    <w:t>图1. 测试图片示例</w:t>
+  </w:r>
+</w:p><w:sectPr w:rsidR="00FC693F" w:rsidRPr="0006063C" w:rsidSect="00034616"><w:pgSz w:w="12240" w:h="15840" /><w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0" /><w:cols w:space="720" /><w:docGrid w:linePitch="360" /></w:sectPr></w:body></w:document>

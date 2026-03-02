@@ -1,0 +1,8 @@
+{
+  "name": "docx-toolkit",
+  "description": "专业级 DOCX 文档处理工具包，支持模板渲染、文档合并、精细编辑、批量操作等",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude User"
+  }
+}
